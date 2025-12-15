@@ -1,2 +1,4 @@
 # databricks-medallion-project
-Databricks medallion architecture with Git-based deployment
+Databricks medallion architecture practice with Git-based CI/CD
+
+
